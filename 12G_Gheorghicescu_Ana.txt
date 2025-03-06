@@ -1,0 +1,22 @@
+1.	Caracteristică hard disk extern + număr minim de stick-uri USB
+	•	O caracteristică: HDD extern oferă stocare portabilă pentru backup și transfer de fișiere.
+	•	Numărul minim de stick-uri necesare: 1 TB = 1000 GB → cu stick-uri de 128 GB, avem nevoie de aproximativ 8 stick-uri (1000 ÷ 128 ≈ 7,8, deci rotunjim la 8).
+	2.	Compararea sistemelor S1 și S2
+	•	S1 (Laptop): Portabil, consum redus de energie, mai potrivit pentru sarcini de bază.
+	•	S2 (Desktop PC): Performanță mai mare datorită procesorului Ryzen și plăcii video dedicate, potrivit pentru gaming/grafică.
+	3.	Program pentru e-mail + 3 facilități
+	•	Exemplu: Microsoft Outlook, Gmail, Thunderbird
+	•	Facilități: Trimitere/recepționare mesaje, atașare fișiere, filtrare spam.
+	4.	Două programe antivirus + necesitatea actualizării
+	•	Exemple: Windows Defender, Avast, Bitdefender, Kaspersky
+	•	Necesitatea actualizării: Protejează împotriva noilor amenințări, îmbunătățește detecția malware, corectează vulnerabilități.
+	5.	Program pentru conversație + 3 facilități
+	•	Exemplu: WhatsApp, Zoom, Microsoft Teams, Discord
+	•	Facilități: Mesagerie text, apeluri audio/video, partajare fișiere/ecran.
+	6.	Categoria imprimantei + specificații
+	•	Categorie: Dispozitiv periferic de ieșire
+	•	Viteză de printare: 7,5 ppm (pagini pe minut)
+	•	Tip conectivitate: USB
+	7.	Metodă pentru aflarea capacității RAM pe Windows
+	•	Metoda 1: Deschideți Task Manager (Ctrl + Shift + Esc) → Tab Performance → Memory
+	•	Metoda 2: Deschideți System Information (Win + R → tastați msinfo32) → Căutați Installed RAM
